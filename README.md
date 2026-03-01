@@ -89,4 +89,10 @@ Machine Learning-based phishing URL detection system integrating:
 
 ---
 
-⭐ Always building. Always learning. Always improving.
+## 📫 Contact Me
+
+- 📧 Email: dineshpandian6789@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dineshpandiang  
+- 🌐 Portfolio: https://dinesh-max-code.github.io  
+
+Feel free to reach out for collaboration, internships, or opportunities.
