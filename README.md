@@ -69,17 +69,22 @@ Machine Learning-based phishing URL detection system integrating:
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-max-code&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-max-code&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh-max-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-max-code&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Dinesh-max-code&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📈 Contribution Graph
 
