@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">Backend Developer | Machine Learning | AWS | Cybersecurity Enthusiast</h3>
+```md
+# Hi 👋, I'm Dinesh Pandian G
+
+### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform
 
 <p align="center">
-Final Year Information Technology Student focused on building scalable backend systems,
-machine learning applications, and security-driven solutions.
+Passionate about building scalable cloud infrastructure, automating deployments,
+and implementing modern DevOps practices using AWS, Docker, Kubernetes, Terraform,
+Jenkins, and GitHub Actions.
 </p>
 
 ---
@@ -12,9 +15,11 @@ machine learning applications, and security-driven solutions.
   <a href="https://dinesh-max-code.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/dineshpandiang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:dineshpandian6789@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -24,68 +29,127 @@ machine learning applications, and security-driven solutions.
 
 ## 🚀 About Me
 
-- 🎓 Final Year IT Student  
-- 💻 Backend Developer (Python & FastAPI)  
-- 🤖 Machine Learning Enthusiast  
-- ☁️ Learning AWS Cloud Fundamentals  
-- 🔐 Interested in Cybersecurity & Threat Detection  
-
-I enjoy solving real-world problems using structured backend architecture and ML-powered systems.
+- 🎓 B.Tech Information Technology Student
+- ☁️ Cloud & DevOps Engineer
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes Orchestration
+- 🏗️ Infrastructure as Code using Terraform
+- ⚙️ CI/CD Automation with Jenkins & GitHub Actions
+- 🐧 Linux & Cloud Infrastructure Enthusiast
 
 ---
 
 ## 🛠 Technical Skills
 
-### 💻 Programming & Backend
-- Python  
-- FastAPI  
-- REST API Development  
-- Git & GitHub  
+### ☁️ Cloud Platforms
+- AWS EC2
+- AWS S3
+- AWS IAM
+- AWS VPC
 
-### 🤖 Machine Learning
-- Scikit-learn  
-- Pandas  
-- Feature Engineering  
-- Model Training & Evaluation  
+### ⚙️ DevOps & Automation
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Terraform
 
-### ☁️ Cloud
-- AWS (EC2, S3, IAM, VPC – Basics)
+### 💻 Programming & Tools
+- Python
+- SQL
+- Linux
+- Git
+- GitHub
 
 ---
 
-## 🔥 Featured Project
+## 💼 Internship Experience
 
-### 🔐 Real-Time Phishing Detection System
+### Cloud & DevOps Intern – Vidyai Technology
 
-A Machine Learning-based phishing URL detection system integrating:
+- Worked with AWS (EC2, S3, IAM, VPC)
+- Used Docker for containerization
+- Explored Kubernetes deployments
+- Provisioned infrastructure using Terraform
+- Participated in CI/CD workflow implementation
 
-- FastAPI Backend  
-- Threat Intelligence APIs (PhishTank & OpenPhish)  
-- ML Classification Model  
-- Real-time URL Analysis  
+---
 
-🔗 Repository:  
+## 🔥 Featured Projects
+
+### 🚀 End-to-End CI/CD Pipeline on AWS
+
+Built a complete CI/CD pipeline using:
+
+- Jenkins
+- Docker
+- Kubernetes
+- GitHub Actions
+- SonarQube
+- AWS EC2
+
+Key Features:
+
+- Automated build process
+- Docker image creation
+- Kubernetes deployment
+- Code quality analysis
+- Continuous delivery workflow
+
+---
+
+### 🐳 CRM Application (Dockerized Deployment)
+
+- Built and containerized CRM application
+- Ensured consistent deployments
+- Simulated production-ready environment
+- Improved scalability using Docker
+
+---
+
+### 🔐 Real-Time Phishing Detection
+
+- Developed phishing detection model using LightGBM
+- Integrated real-time URL analysis APIs
+- Achieved 95–98% detection accuracy
+
+Repository:
 https://github.com/Dinesh-max-code/real-time-phishing-detection
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-- Improving backend architecture skills  
-- Strengthening ML model optimization  
-- Learning AWS deployment strategies  
-- Preparing for software & ML roles  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: dineshpandian6789@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/dineshpandiang  
-- 🌐 Portfolio: https://dinesh-max-code.github.io  
-
-Feel free to reach out for internships, collaborations, or opportunities.
+- Advanced AWS Services
+- Kubernetes Administration
+- Terraform Infrastructure Automation
+- CI/CD Pipeline Optimization
+- Cloud Architecture Design
 
 ---
 
-⭐ Always building. Always learning. Always improving.
+## 🌐 Portfolio
+
+Portfolio Website:
+https://dinesh-max-code.github.io
+
+GitHub:
+https://github.com/Dinesh-max-code
+
+---
+
+## 📫 Contact
+
+📧 Email:
+dineshpandian6789@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/dineshpandiang
+
+🌐 Portfolio:
+https://dinesh-max-code.github.io
+
+---
+
+⭐ Building Cloud Infrastructure | Automating Deployments | Continuously Learning
+```
