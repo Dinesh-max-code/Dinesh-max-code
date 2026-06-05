@@ -1,147 +1,146 @@
-```md
-# Hi 👋, I'm Dinesh Pandian G
+# 👋 Hi, I'm Dinesh Pandian G
 
-### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform
+## ☁️ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform
 
-<p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments,
-and implementing modern DevOps practices using AWS, Docker, Kubernetes, Terraform,
-Jenkins, and GitHub Actions.
-</p>
+Final Year Information Technology Student passionate about Cloud Computing, DevOps Automation, Infrastructure as Code, Containerization, and CI/CD Pipelines.
+
+Building scalable cloud infrastructure and automating deployments using AWS, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions.
 
 ---
 
-<p align="center">
-  <a href="https://dinesh-max-code.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+## 🌐 Connect With Me
 
-  <a href="https://www.linkedin.com/in/dineshpandiang" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:dineshpandian6789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* 🌍 Portfolio: https://dinesh-max-code.github.io
+* 💼 LinkedIn: https://www.linkedin.com/in/dineshpandiang
+* 📧 Email: [dineshpandian6789@gmail.com](mailto:dineshpandian6789@gmail.com)
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech Information Technology Student
-- ☁️ Cloud & DevOps Engineer
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes Orchestration
-- 🏗️ Infrastructure as Code using Terraform
-- ⚙️ CI/CD Automation with Jenkins & GitHub Actions
-- 🐧 Linux & Cloud Infrastructure Enthusiast
+* 🎓 B.Tech Information Technology Student
+* ☁️ Cloud & DevOps Enthusiast
+* ⚙️ CI/CD Pipeline Automation
+* 🐳 Docker Containerization
+* ☸️ Kubernetes Orchestration
+* 🏗️ Infrastructure as Code (Terraform)
+* 🐧 Linux Administration
 
----
-
-## 🛠 Technical Skills
-
-### ☁️ Cloud Platforms
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS VPC
-
-### ⚙️ DevOps & Automation
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Terraform
-
-### 💻 Programming & Tools
-- Python
-- SQL
-- Linux
-- Git
-- GitHub
+I enjoy building scalable cloud solutions, automating deployments, and improving software delivery through DevOps practices.
 
 ---
 
-## 💼 Internship Experience
+# 🛠️ Technical Skills
 
-### Cloud & DevOps Intern – Vidyai Technology
+## ☁️ Cloud Computing
 
-- Worked with AWS (EC2, S3, IAM, VPC)
-- Used Docker for containerization
-- Explored Kubernetes deployments
-- Provisioned infrastructure using Terraform
-- Participated in CI/CD workflow implementation
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS VPC
 
----
+## ⚙️ DevOps & Automation
 
-## 🔥 Featured Projects
+* Docker
+* Kubernetes
+* Terraform
+* Jenkins
+* GitHub Actions
 
-### 🚀 End-to-End CI/CD Pipeline on AWS
+## 💻 Programming & Tools
 
-Built a complete CI/CD pipeline using:
-
-- Jenkins
-- Docker
-- Kubernetes
-- GitHub Actions
-- SonarQube
-- AWS EC2
-
-Key Features:
-
-- Automated build process
-- Docker image creation
-- Kubernetes deployment
-- Code quality analysis
-- Continuous delivery workflow
+* Python
+* SQL
+* Linux
+* Git
+* GitHub
 
 ---
 
-### 🐳 CRM Application (Dockerized Deployment)
+# 💼 Internship Experience
 
-- Built and containerized CRM application
-- Ensured consistent deployments
-- Simulated production-ready environment
-- Improved scalability using Docker
+## Cloud & DevOps Intern — Vidyai Technology
+
+* Worked with AWS services including EC2, S3, IAM, and VPC
+* Used Docker for application containerization
+* Explored Kubernetes deployment workflows
+* Provisioned cloud infrastructure using Terraform
+* Participated in CI/CD implementation and deployment activities
 
 ---
 
-### 🔐 Real-Time Phishing Detection
+# 🔥 Featured Projects
 
-- Developed phishing detection model using LightGBM
-- Integrated real-time URL analysis APIs
-- Achieved 95–98% detection accuracy
+## 🚀 End-to-End CI/CD Pipeline on AWS
 
-Repository:
+### Technologies Used
+
+* AWS EC2
+* Jenkins
+* Docker
+* Kubernetes
+* SonarQube
+* GitHub Actions
+
+### Key Highlights
+
+* Automated build and deployment process
+* Docker image creation and management
+* Kubernetes deployment automation
+* Code quality analysis using SonarQube
+* Continuous Integration and Continuous Delivery
+
+---
+
+## 🐳 CRM Application (Dockerized Deployment)
+
+### Highlights
+
+* Developed and containerized CRM application using Docker
+* Improved deployment consistency
+* Simulated production-ready environment
+* Enhanced scalability and maintainability
+
+---
+
+## 🔐 Real-Time Phishing Detection
+
+### Highlights
+
+* Developed phishing URL detection model using LightGBM
+* Integrated APIs for real-time URL analysis
+* Achieved 95–98% detection accuracy
+* Automated threat detection workflow
+
+🔗 Repository:
 https://github.com/Dinesh-max-code/real-time-phishing-detection
 
 ---
 
-## 🎯 Current Focus
+# 📈 Current Focus
 
-- Advanced AWS Services
-- Kubernetes Administration
-- Terraform Infrastructure Automation
-- CI/CD Pipeline Optimization
-- Cloud Architecture Design
-
----
-
-## 🌐 Portfolio
-
-Portfolio Website:
-https://dinesh-max-code.github.io
-
-GitHub:
-https://github.com/Dinesh-max-code
+* ☁️ Advanced AWS Services
+* ☸️ Kubernetes Administration
+* 🏗️ Terraform Infrastructure Automation
+* ⚙️ CI/CD Pipeline Optimization
+* 🚀 Cloud Architecture Design
 
 ---
 
-## 📫 Contact
+# 📚 Areas of Interest
 
-📧 Email:
-dineshpandian6789@gmail.com
+* Cloud Computing
+* DevOps Engineering
+* Infrastructure Automation
+* Site Reliability Engineering (SRE)
+* Cloud Security
+* Container Orchestration
+
+---
+
+# 📫 Contact
+
+📧 Email: [dineshpandian6789@gmail.com](mailto:dineshpandian6789@gmail.com)
 
 💼 LinkedIn:
 https://www.linkedin.com/in/dineshpandiang
@@ -149,7 +148,11 @@ https://www.linkedin.com/in/dineshpandiang
 🌐 Portfolio:
 https://dinesh-max-code.github.io
 
+💻 GitHub:
+https://github.com/Dinesh-max-code
+
 ---
 
-⭐ Building Cloud Infrastructure | Automating Deployments | Continuously Learning
-```
+## ⭐ Motto
+
+**Building Cloud Infrastructure • Automating Deployments • Continuously Learning**
